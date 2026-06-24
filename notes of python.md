@@ -182,3 +182,6 @@ File handling helps us work with files in Python.
 
 "x" → Create file
 
+#fuction
+2 type of function
+bultin and user defined
